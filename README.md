@@ -91,3 +91,4 @@ También utilizamos IA para revisar que la jerarquía de encabezados fuera lógi
 Para cumplir con el requisito de la segunda página, desarrollamos `about.html` como una página "Acerca de" con información sobre el equipo y la enlazamos desde `index.html`.
 
 La IA se utilizó como herramienta de apoyo para revisar el código y comprender los requisitos, pero las decisiones finales sobre la estructura, contenido y organización del proyecto fueron realizadas por el equipo.
+
